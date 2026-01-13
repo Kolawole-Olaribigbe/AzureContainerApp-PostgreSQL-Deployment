@@ -56,4 +56,13 @@ Step four: From the menu, navigate to the 'Applications' menu. Then click "Revis
 Step five: Click "Show Logs", then the "Basics" tab to Check if apllication is running
 <img width="1126" height="635" alt="Screenshot 2026-01-13 184750" src="https://github.com/user-attachments/assets/ea394aed-713c-4f5f-8166-0a2357f0b7b4" />
 
+- Click on "Logs" tab to check if image is receiving traffic
+<img width="1125" height="642" alt="Screenshot 2026-01-13 195355" src="https://github.com/user-attachments/assets/a03c6f4e-bb67-4475-aa46-c8e6ba477d64" />
+
+- Check if page displays, by using the revision url provided in azure
+<img width="1365" height="725" alt="Screenshot 2026-01-13 195505" src="https://github.com/user-attachments/assets/3097f4af-ab65-4e22-8473-3a97f99e0654" />
+
+
+
+
 
