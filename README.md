@@ -36,4 +36,13 @@ Step two(Container): Create Container App
 
 Step two(Ingress): Create Container App
 
-  
+- Enable Ingress
+- Ingress Traffic: Accept from anywhere
+- Target Port: 3000
+<img width="1365" height="566" alt="Screenshot 2026-01-13 175711" src="https://github.com/user-attachments/assets/21e44f6d-2fed-4f09-84aa-61f2741020c4" />
+
+Step two(Reveiw configuration, then create): Create Container App
+
+<img width="1365" height="498" alt="Screenshot 2026-01-13 182335" src="https://github.com/user-attachments/assets/16405e21-8162-4f51-a6b3-66d3aee91f3f" />
+<img width="1365" height="421" alt="Screenshot 2026-01-13 182534" src="https://github.com/user-attachments/assets/1938fcb7-0515-41ba-bfa5-985943f860f5" />
+
