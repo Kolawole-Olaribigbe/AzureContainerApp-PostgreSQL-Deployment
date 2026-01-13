@@ -41,8 +41,19 @@ Step two(Ingress): Create Container App
 - Target Port: 3000
 <img width="1365" height="566" alt="Screenshot 2026-01-13 175711" src="https://github.com/user-attachments/assets/21e44f6d-2fed-4f09-84aa-61f2741020c4" />
 
-Step two(Reveiw configuration, then create): Create Container App
+Step two(Review configuration, then create): Create Container App
 
 <img width="1365" height="498" alt="Screenshot 2026-01-13 182335" src="https://github.com/user-attachments/assets/16405e21-8162-4f51-a6b3-66d3aee91f3f" />
 <img width="1365" height="421" alt="Screenshot 2026-01-13 182534" src="https://github.com/user-attachments/assets/1938fcb7-0515-41ba-bfa5-985943f860f5" />
+<img width="1365" height="643" alt="Screenshot 2026-01-13 183106" src="https://github.com/user-attachments/assets/99747e6d-1a5c-4f6f-93bb-c7ea2e4f18b9" />
+
+Step three: Go to the newly deployed resource
+<img width="1360" height="424" alt="Screenshot 2026-01-13 183609" src="https://github.com/user-attachments/assets/d66af95e-acfd-4382-abd3-3635ce4b0af0" />
+
+Step four: From the menu, navigate to the 'Applications' menu. Then click "Revisions and replicas"
+<img width="760" height="451" alt="Screenshot 2026-01-13 183934" src="https://github.com/user-attachments/assets/fdf5bebc-b65c-4316-8072-43d9044d2925" />
+
+Step five: Click "Show Logs", then the "Basics" tab to Check if apllication is running
+<img width="1126" height="635" alt="Screenshot 2026-01-13 184750" src="https://github.com/user-attachments/assets/ea394aed-713c-4f5f-8166-0a2357f0b7b4" />
+
 
