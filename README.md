@@ -9,6 +9,18 @@ Step one: Create Resource Group
 - Choose region
 - Create
 
-<img width="1361" height="684" alt="Screenshot 2026-01-13 171256" src="https://github.com/user-attachments/assets/37c21ba4-3c14-4a33-abb1-773c05c5fef4" />
+<img width="1361" height="638" alt="Screenshot 2026-01-13 171256" src="https://github.com/user-attachments/assets/4a0170a1-133d-42ed-98db-2548b5a19c9a" />
 
 
+
+Step two: Create Container App
+
+- Open Container App service
+- Select a Resource Group
+- Name Container App
+- Choose Deployment source
+- Select Same region as the resource group
+- Select container app environment
+
+<img width="1365" height="641" alt="Screenshot 2026-01-13 173123" src="https://github.com/user-attachments/assets/45996932-8080-4325-83bb-4f912306e521" />
+<img width="1365" height="257" alt="Screenshot 2026-01-13 174149" src="https://github.com/user-attachments/assets/def21613-39ba-494e-a1ac-561660a34e80" />
