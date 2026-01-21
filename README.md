@@ -88,3 +88,25 @@ Step one: Configure PostgreSQL Database(Basics)
 <img width="1365" height="576" alt="Screenshot 2026-01-21 164909" src="https://github.com/user-attachments/assets/52d25943-1eb8-4187-90af-d369910a00d6" />
 <img width="1365" height="402" alt="Screenshot 2026-01-21 164938" src="https://github.com/user-attachments/assets/8356e204-4f4a-4250-aeeb-e767587a110e" />
 
+Step two: Create Database
+- Go to resource
+- From Menu, navigate to "Databses" under the "Settings" submenu
+<img width="1361" height="583" alt="Screenshot 2026-01-21 182943" src="https://github.com/user-attachments/assets/fb6e5dd6-cc33-467d-a9a8-f8518e546a2d" />
+
+- Click on "Add" to create new database
+<img width="1364" height="609" alt="Screenshot 2026-01-21 183300" src="https://github.com/user-attachments/assets/8e140033-f183-4599-bcd3-001de53ea314" />
+<img width="583" height="643" alt="Screenshot 2026-01-21 183436" src="https://github.com/user-attachments/assets/cb58f279-735e-43d4-a4e2-5ce6d1920639" />
+
+- Navigate to "Connect" under the "Settings" submenu
+- Select newly cereated database
+<img width="1365" height="581" alt="Screenshot 2026-01-21 183838" src="https://github.com/user-attachments/assets/627c2b32-22a8-4202-95dd-08c473fd96a2" />
+
+Step three: Edit Environment variables
+- Navigate to Container App
+- Open container
+- Go to Environment variables tab
+<img width="1361" height="643" alt="Screenshot 2026-01-21 174456" src="https://github.com/user-attachments/assets/42ff00aa-f9d4-48c2-bb2c-51b4ec93d93e" />
+
+Step four: Check App
+<img width="1365" height="726" alt="Screenshot 2026-01-21 184719" src="https://github.com/user-attachments/assets/d5834458-3c03-4f9f-a9f3-13b9f626532e" />
+
