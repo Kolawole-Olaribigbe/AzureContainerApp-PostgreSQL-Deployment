@@ -64,5 +64,27 @@ Step five: Click "Show Logs", then the "Basics" tab to Check if application is r
 
 
 
+Project: AzureContainerApp-PostgreSQL-Deployment(Contd.)
 
+Step one: Configure PostgreSQL Database(Basics)
+
+- Open Azure Database for PostgreSQL flexible Server
+
+<img width="1365" height="542" alt="Screenshot 2026-01-21 163243" src="https://github.com/user-attachments/assets/6d2fc074-45ba-40e6-b6d3-f5569bc28b21" />
+<img width="1365" height="437" alt="Screenshot 2026-01-21 163341" src="https://github.com/user-attachments/assets/db23ebe2-a5dc-4e12-ada3-17202881a72e" />
+<img width="1365" height="576" alt="Screenshot 2026-01-21 164147" src="https://github.com/user-attachments/assets/3f1246f7-70c2-4e8b-b81d-4fb286258d4f" />
+
+- Step one(Networking):
+<img width="1361" height="575" alt="Screenshot 2026-01-21 164450" src="https://github.com/user-attachments/assets/d09e5742-92a1-4f04-9557-262aed133bab" />
+<img width="1365" height="576" alt="Screenshot 2026-01-21 164512" src="https://github.com/user-attachments/assets/747e5eb2-bcf0-45b8-a4e1-2cc62ca13035" />
+
+- Step one(Security):
+<img width="1365" height="576" alt="Screenshot 2026-01-21 164744" src="https://github.com/user-attachments/assets/3407b453-8d4a-4f4d-8b5a-121c82b2ddce" />
+
+- Step one(Tags):
+<img width="1365" height="580" alt="Screenshot 2026-01-21 164813" src="https://github.com/user-attachments/assets/4f302dcf-fb24-41a9-b91c-fe0a9c943a04" />
+
+- Step one(Review and create):
+<img width="1365" height="576" alt="Screenshot 2026-01-21 164909" src="https://github.com/user-attachments/assets/52d25943-1eb8-4187-90af-d369910a00d6" />
+<img width="1365" height="402" alt="Screenshot 2026-01-21 164938" src="https://github.com/user-attachments/assets/8356e204-4f4a-4250-aeeb-e767587a110e" />
 
